@@ -19,6 +19,7 @@ const Img = styled.img`
  height: 90px;
  border-radius: 5px;
  
+ 
 `
 
 
